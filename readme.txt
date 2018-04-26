@@ -2,5 +2,3 @@
 Git is free software distributed under the GPL.
 Git has a mutable index called satge.
 Git tracks changes
-
-I'm ls
